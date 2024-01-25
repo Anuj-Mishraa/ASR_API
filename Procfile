@@ -1,0 +1,1 @@
+web: gunicorn ASR_English:app
